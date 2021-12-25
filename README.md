@@ -1,9 +1,7 @@
-### Hi there 👋
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mbhatip)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mbhatip/)
 
-Highlights ✨
+## Highlights ✨
 - 🦑 Contributing to [Argo Rollouts](https://github.com/argoproj/argo-rollouts/pull/1301) to allow for custom app deployments/updates using OpenShift Routes (WIP)
 - 🖥️ Tweaking homelab to serve microservices, try out new technologies, and eventually learn how the Internet works top down
 - 😄 Excited for new opportunities in DevOps and SRE positions
