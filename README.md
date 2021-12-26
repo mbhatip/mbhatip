@@ -7,15 +7,6 @@
 - 😄 Excited for new opportunities in DevOps and SRE positions
 
 <!--
-make homelab repo with config files and explanations on tech
-add changelogs to both repos
-get homer up and running on homelab website
-finish PR on argo rollouts 
-
-have repos give real time status of server (hard, lol)
-configure olivetin for easy to run commands 
-update homer real time with server status
-
 **mbhatip/mbhatip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
